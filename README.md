@@ -29,4 +29,9 @@ If for some reason the Script does not work then use the manual install
 1. Navigate to Folder using ```open library/Services```
 2. Delete the Contents
 
+## Update
+1. Navigate to the Folder using ```cd betterfinder```
+2. Navigate to updater using ```cd Update```
+3. Run using ```sh install.sh```
+
 # Thank you for using BetterFinder!
