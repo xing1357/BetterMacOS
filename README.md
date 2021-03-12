@@ -9,6 +9,8 @@ git clone https://github.com/xing1357/BetterFinder
 ### Use Script to Install
 1. Navigate to the Installer using ```cd install```
 2. Run using ```sh install.sh```
+3. Skip to step 3 of Manual Install
+
 ### Manual Install
 If for some reason the Script does not work then use the manual install
 1. Download the Code
@@ -26,3 +28,5 @@ If for some reason the Script does not work then use the manual install
 ### Manual Uninstall
 1. Navigate to Folder using ```open library/Services```
 2. Delete the Contents
+
+# Thank you for using BetterFinder!
