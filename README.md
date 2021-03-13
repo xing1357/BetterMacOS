@@ -1,10 +1,14 @@
 # BetterFinder
 Make using Finder Easier! Clear your cache easier and create new files with just a simple press of keys.
 ## How to Install
-### Clone or Download to Home Folder 
-```
-git clone https://github.com/xing1357/BetterFinder
-```
+
+### Use the Latest Version in Development
+* `git clone https://github.com/xing1357/BetterFinder`
+* Download From Here and Place it in your home folder
+
+### Use the Latest Release
+1. Go to releases
+2. Download the Latest Release (Or any release)
 
 ### Use Script to Install
 1. Navigate to the Installer using ```cd install```
