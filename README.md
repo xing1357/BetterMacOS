@@ -39,3 +39,4 @@ If for some reason the Script does not work then use the manual install
 3. Run using ```sh install.sh```
 
 # Thank you for using BetterFinder!
+## *Will not be updating for a fairly long time (See 2.0 release)
