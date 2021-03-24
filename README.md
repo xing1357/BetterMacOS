@@ -1,9 +1,9 @@
-# BetterFinder
-Make using Finder Easier! Clear your cache easier and create new files with just a simple press of keys.
+# BetterMacOS
+Make using MacOS Easier! Clear your cache easier and create new files with just a simple press of keys.
 ## How to Install
 
 ### Use the Latest Version in Development
-* `git clone https://github.com/xing1357/BetterFinder`
+* `git clone https://github.com/xing1357/BetterMacOS`
 * Download From Here and Place it in your home folder
 
 ### Use the Latest Release
@@ -34,9 +34,9 @@ If for some reason the Script does not work then use the manual install
 2. Delete the Contents
 
 ## Update
-1. Navigate to the Folder using ```cd betterfinder```
+1. Navigate to the Folder using ```cd BetterMacOS```
 2. Navigate to updater using ```cd Update```
 3. Run using ```sh install.sh```
 
-# Thank you for using BetterFinder!
-## *Will not be updating for a fairly long time (See 2.0 release)
+# Thank you for using BetterMacOS!
+
